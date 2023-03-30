@@ -8,7 +8,7 @@ function App() {
       <p>Ask away!</p>
       <Markprompt
         projectKey="4xFIDV7Nt4eNr1gXvNTKZS1bXavzEkDj"
-        completionsUrl="https://docs.codacy.com"
+        model="gpt-4"
       />
     </div>
   );
